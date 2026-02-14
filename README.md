@@ -2,7 +2,9 @@
 
 HR Analytics Dashboard built in Power BI to analyze attrition, workforce distribution, and job satisfaction.
 
-## An end-to-end HR Analytics dashboard built in Power BI to analyze employee attrition, workforce demographics, job satisfaction, and performance metrics using data modeling, DAX, and interactive data visualization.
+## Subtitle
+
+An end-to-end HR Analytics dashboard built in Power BI to analyze employee attrition, workforce demographics, job satisfaction, and performance metrics using data modeling, DAX, and interactive data visualization.
 
 ---
 
