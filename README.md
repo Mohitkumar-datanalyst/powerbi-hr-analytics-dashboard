@@ -60,16 +60,16 @@ The objective of this project is to analyze HR data and identify patterns that h
 
 ## 📈 Key KPIs
 
-- Total Employees
-- Attrition Count
-- Attrition Rate (%)
-- Active Employees
-- Average Age
-- Department-wise Attrition
-- Education Field-wise Attrition
-- Job Satisfaction Rating Distribution
-- Age Group Analysis
-- Gender-based Attrition Rate
+- **Total Employees**
+- **Attrition Count**
+- **Attrition Rate (%)**
+- **Active Employees**
+- **Average Age**
+- **Department-wise Attrition**
+- **Education Field-wise Attrition**
+- **Job Satisfaction Rating Distribution**
+- **Age Group Analysis**
+- **Gender-based Attrition Rate**
 
 ---
 
