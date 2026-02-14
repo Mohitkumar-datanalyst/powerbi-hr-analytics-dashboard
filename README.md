@@ -1,6 +1,6 @@
 # HR Analytics Dashboard – Power BI Project
 
-![Power BI]([https://img.shields.io](https://github.com/Mohitkumar-datanalyst/powerbi-hr-analytics-dashboard/blob/main/HR%20Dashboard%202026-01-31%2021-19-03.mp4/badge/Tool-Power%20BI-yellow)
+![Power BI](https://github.com/Mohitkumar-datanalyst/powerbi-hr-analytics-dashboard/blob/main/HR%20Dashboard%202026-01-31%2021-19-03.mp4/badge/Tool-Power%20BI-yellow)
 ![Domain](https://img.shields.io/badge/Domain-HR%20Analytics-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
