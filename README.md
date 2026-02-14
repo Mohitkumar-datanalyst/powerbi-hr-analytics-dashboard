@@ -111,10 +111,12 @@ Created measures for:
 
 ## 🖼 Dashboard Preview
 
-Add screenshots here:
+<img width="1364" height="746" alt="Screenshot 2026-01-31 212940" src="https://github.com/user-attachments/assets/c69d1960-6670-4123-bfe3-b9f15db66acb" />
+
 
 🎥 Dashboard Walkthrough Video:
-[Upload your `.mp4` file to the repository.](https://github.com/Mohitkumar-datanalyst/powerbi-hr-analytics-dashboard/blob/main/HR%20Dashboard%202026-01-31%2021-19-03.mp4)
+
+<a href="https://github.com/Mohitkumar-datanalyst/powerbi-hr-analytics-dashboard/blob/main/HR%20Dashboard%202026-01-31%2021-19-03.mp4">`Dashboard_Demo_Video`</a>
 
 ---
 
