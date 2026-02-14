@@ -1,10 +1,5 @@
 # HR Analytics Dashboard – Power BI Project
 
-![Power BI](https://github.com/Mohitkumar-datanalyst/powerbi-hr-analytics-dashboard/blob/main/HR%20Dashboard%202026-01-31%2021-19-03.mp4/badge/Tool-Power%20BI-yellow)
-![Domain](https://img.shields.io/badge/Domain-HR%20Analytics-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-
-
 An end-to-end HR Analytics dashboard built in Power BI to analyze employee attrition, workforce demographics, job satisfaction, and performance metrics using data modeling, DAX, and interactive data visualization.
 
 ---
