@@ -114,7 +114,7 @@ Created measures for:
 Add screenshots here:
 
 🎥 Dashboard Walkthrough Video:
-Upload your `.mp4` file to the repository.
+[Upload your `.mp4` file to the repository.](https://github.com/Mohitkumar-datanalyst/powerbi-hr-analytics-dashboard/blob/main/HR%20Dashboard%202026-01-31%2021-19-03.mp4)
 
 ---
 
