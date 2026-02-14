@@ -45,9 +45,7 @@ The objective of this project is to analyze HR data and identify patterns that h
   - Gender distribution
 
 📂 Dataset File:  
-`HR Data.xlsx`
-
-(Replace with repository link after upload)
+<a href="https://github.com/Mohitkumar-datanalyst/powerbi-hr-analytics-dashboard/blob/main/HR%20Data.xlsx">`HR Data.xlsx`</a>
 
 ---
 
