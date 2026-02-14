@@ -114,7 +114,8 @@ Created measures for:
 <img width="1364" height="746" alt="Screenshot 2026-01-31 212940" src="https://github.com/user-attachments/assets/c69d1960-6670-4123-bfe3-b9f15db66acb" />
 
 
-🎥 Dashboard Walkthrough Video:
+
+🎥 **Dashboard Walkthrough Video:**
 
 <a href="https://github.com/Mohitkumar-datanalyst/powerbi-hr-analytics-dashboard/blob/main/HR%20Dashboard%202026-01-31%2021-19-03.mp4">`Dashboard_Demo_Video`</a>
 
